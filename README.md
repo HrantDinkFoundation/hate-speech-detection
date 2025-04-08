@@ -1,4 +1,4 @@
-# Hate-Speech-Detection
+# Hate Speech Detection
 
 **This is the repository for the Hate Specch Detection Project at Hrant Dink Foundation.**
 

@@ -13,5 +13,7 @@
 **Models are available at**:
 [HuggingFace Link](https://huggingface.co/HrantDinkFoundation)
 
-# pari
+# pari 
 https://pari.hrantdink.org/
+The artificial intelligence-supported hate speech detection tool “pari”, developed by the Hrant Dink Foundation in collaboration with Sabancı University and Boğaziçi University, was created in line with the Foundation’s goals of combating discrimination and fostering an inclusive discourse
+

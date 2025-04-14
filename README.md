@@ -11,4 +11,4 @@
 [arxiv:2502.08266](https://arxiv.org/abs/2502.08266) 
 
 **Models are available at**:
-[Huggingface Link](https://huggingface.co/HrantDinkFoundation)
+[HuggingFace Link](https://huggingface.co/HrantDinkFoundation)

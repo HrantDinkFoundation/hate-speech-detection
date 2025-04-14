@@ -20,7 +20,9 @@ The artificial intelligence-supported hate speech detection tool “pari”, dev
 
 ![pari Screenshot](./image/pari.jpg)
 
+<!-- 
 <p align="center">
   <img src="./image/pari.jpg" alt="Alt text" width="400"/>
-</p>
+</p> 
+-->
 

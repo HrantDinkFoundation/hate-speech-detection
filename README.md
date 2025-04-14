@@ -1,6 +1,6 @@
 # Hate Speech Detection
 
-**This is the repository for the Hate Specch Detection Project at Hrant Dink Foundation.**
+**This is the repository for the Hate Specch Detection Project at [Hrant Dink Foundation]( https://hrantdink.org/).**
 
 **Project information:** EU project "Utilizing Digital Technology for Social Cohesion, Positive Messaging and Peace by Boosting Collaboration, Exchange and Solidarity" (EuropeAid/170389/DD/ACT/Multi) by Sabanci University Center of Excellence in Data Analytics and Bogazici University Department of Computer Engineering.
 

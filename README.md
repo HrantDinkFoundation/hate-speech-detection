@@ -12,3 +12,6 @@
 
 **Models are available at**:
 [HuggingFace Link](https://huggingface.co/HrantDinkFoundation)
+
+# pari
+https://pari.hrantdink.org/

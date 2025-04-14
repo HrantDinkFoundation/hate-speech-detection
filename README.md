@@ -18,5 +18,9 @@ https://pari.hrantdink.org/
 
 The artificial intelligence-supported hate speech detection tool “pari”, developed by the Hrant Dink Foundation in collaboration with Sabancı University and Boğaziçi University, was created in line with the Foundation’s goals of combating discrimination and fostering an inclusive discourse
 
-![Dashboard Screenshot](./images/pari.jpg)
+![Dashboard Screenshot](./image/pari.jpg)
+
+<p align="center">
+  <img src="./image/pari.jpg" alt="Alt text" width="400"/>
+</p>
 

@@ -8,7 +8,7 @@
 [SIU2023](https://ieeexplore.ieee.org/document/10223800),
 [EACL2024](https://aclanthology.org/2024.case-1.32/),
 [LREC2024](https://aclanthology.org/2024.lrec-main.1025/) ,
-[arxiv:2502.08266](https://arxiv.org/abs/2502.08266) 
+[arxiv:2502.08266v2](https://arxiv.org/abs/2502.08266v2)
 
 **Models are available at**:
 [HuggingFace Link](https://huggingface.co/HrantDinkFoundation)

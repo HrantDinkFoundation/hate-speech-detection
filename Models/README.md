@@ -1,11 +1,19 @@
-**This repositry contains different models:**
+## Notebooks
 
-1- Hate speech Classification model (2-class, 4-class, 6-class)
+This repository contains implementations and training scripts for several models:
 
-2- Hate Speech strength model (predict strength of hate in the scale of [0-10])
+1. **Hate Speech Classification Models**  
+   - Binary (2-class)  
+   - Multi-class (4-class, 6-class)
 
-3- Target prediction model (4-class)
+2. **Hate Speech Strength Model**  
+   - Predicts the intensity of hate on a scale from 0 to 10
 
-4- Group prediction model (11-class)
+3. **Target Prediction Model**  
+   - 4-class classification of the target of hate speech
 
-5- Span Detection
+4. **Group Prediction Model**  
+   - 11-class classification of the group targeted
+
+5. **Span Detection Model**  
+   - Identifies and labels hateful spans within text
